@@ -1,0 +1,5 @@
+First name-Natallia
+Last name-Burmaka
+Age-30
+Number of pets-0
+Future desired salary-1000
